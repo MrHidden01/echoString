@@ -1,0 +1,19 @@
+{
+    "name": "diako/echo",
+    "description": "this package print a string",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "diako",
+            "email": "DiakoAltuni@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Diako\\EchoString\\": "src/"
+        }
+    }
+}
